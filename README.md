@@ -1,2 +1,2 @@
-# telegram_bot_travels
-Telegram bot will help you determine the place of travel.
+# that_you_love_bot
+Telegram bot on the basis of neural networks can determine what you like and what does not.
